@@ -74,20 +74,6 @@
 			"locationsId": "13"
 		},
 		{
-			"id": "4",
-			"firstName": "Alexey",
-			"lastName": "Alexeev",
-			"middleName": "Alexeevich",
-			"locationsId": "14"
-		},
-		{
-			"id": "5",
-			"firstName": "Anna",
-			"lastName": "Ananova",
-			"middleName": "Ananovna",
-			"locationsId": "6"
-		},
-		{
 			"id": "10",
 			"firstName": "Vladimir",
 			"lastName": "Vladimirov",
@@ -306,88 +292,6 @@
 				"directions": [2, 3],
 				"dateOfBirth": "1992-07-30",
 				"snils": "65432198700"
-			}
-		},
-		{
-			"id": "62b3c4d5e6f7g8h9i0j1k2l3m4n5o6q7",
-			"managersId": "7",
-			"previousLocationsId": "0",
-			"currentLocationsId": "16",
-			"nextLocationsId": "0",
-			"archiveNumber": 505006,
-			"comment": "Шестой комментарий",
-			"isSnils": "3",
-			"passport": {
-				"isMain": "1",
-				"isRegistration": "0",
-				"isChangePassport": "1"
-			},
-			"diploma": {
-				"isTitlePage": "0",
-				"isAttachmentPage": "1"
-			},
-			"statement": {
-				"isFirst": "1",
-				"isSecond": "1",
-				"isThird": "0"
-			},
-			"opd": {
-				"isFirst": "1",
-				"isSecond": "1",
-				"isThird": "1",
-				"isFourth": "0"
-			},
-			"isMarriage": "3",
-			"isNameChange": "3",
-			"person": {
-				"id": "111222003",
-				"firstName": "Natalia",
-				"lastName": "Vasilieva1",
-				"middleName": "Alexandrovna",
-				"directions": [1, 6],
-				"dateOfBirth": "1995-09-12",
-				"snils": "32165498712"
-			}
-		},
-		{
-			"id": "7f5d3b9d27c4eaf5da829f9bcf5b12345",
-			"managersId": "2",
-			"previousLocationsId": "0",
-			"currentLocationsId": "15",
-			"nextLocationsId": "6",
-			"archiveNumber": 703007,
-			"comment": "Тут будет комментарий",
-			"isSnils": "1",
-			"passport": {
-				"isMain": "1",
-				"isRegistration": "1",
-				"isChangePassport": "1"
-			},
-			"diploma": {
-				"isTitlePage": "1",
-				"isAttachmentPage": "1"
-			},
-			"statement": {
-				"isFirst": "1",
-				"isSecond": "1",
-				"isThird": "1"
-			},
-			"opd": {
-				"isFirst": "1",
-				"isSecond": "1",
-				"isThird": "1",
-				"isFourth": "1"
-			},
-			"isMarriage": "3",
-			"isNameChange": "3",
-			"person": {
-				"id": "719240001",
-				"firstName": "Ivan",
-				"lastName": "Petrov2",
-				"middleName": "Sergeevich",
-				"directions": [1, 5, 6, 7],
-				"dateOfBirth": "2000-01-01",
-				"snils": "12345678900"
 			}
 		}
 	]
